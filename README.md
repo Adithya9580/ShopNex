@@ -86,15 +86,3 @@ public/
 ```bash
 npm run build
 ```
-
-## Contributing
-
-See [`contributing.md`](contributing.md) for guidelines on how to contribute, create issues, and submit pull requests.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Author
-
-ShopNex is maintained by the open-source community. For questions, reach out via GitHub Issues.
